@@ -7,6 +7,7 @@ tags: stress, postmortem, blameless, mindfulness
 
 * Performance under stress
 * Stress surface
+* The effect of cognitive bias
 * Mindful Ops
 
 ## Quotes and notes
