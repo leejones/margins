@@ -84,4 +84,4 @@ Postmortems frequently suffer from hindsight bias.
 
 ---
 
-> We can similarly mitigate the effects of cognitive biases through mind‐ fulness — we can become aware of when we’re jumping to conclusions and purposefully slow down to engage our analytical System 2 thinking.
+> We can similarly mitigate the effects of cognitive biases through mindfulness — we can become aware of when we’re jumping to conclusions and purposefully slow down to engage our analytical System 2 thinking.
