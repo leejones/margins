@@ -23,7 +23,7 @@ tags: stress, postmortem, blameless, mindfulness
 
 Game day exercises take the "novel"ness out of certain types of issues, thus reducing the stress.
 
-> The most effective way of mitigating the effects of social evaluative stress is to emphasize the blameless nature of postmortems. 
+> The most effective way of mitigating the effects of social evaluative stress is to emphasize the blameless nature of postmortems.
 
 ---
 
