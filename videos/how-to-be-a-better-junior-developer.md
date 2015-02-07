@@ -2,6 +2,7 @@
 
 source: https://www.youtube.com/watch?v=GJW46x27W1w
 by: Katherine Wu
+tags: mentoring, learning, empathy, feeback
 
 A nice formula when asking for help:
 
