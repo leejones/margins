@@ -5,6 +5,8 @@
 
 ## Major themes
 
+## approach
+
 * confronted the realities of distributed systems
 * created a set of [basic priciples](https://github.com/Yelp/service-principles) when writing/operating services
 * commited to blameless postmortems when things (inevitably) go wrong
