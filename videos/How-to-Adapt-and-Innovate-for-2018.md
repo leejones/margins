@@ -3,7 +3,7 @@
 * source: https://www.youtube.com/watch?v=ztCe4WnYunQ&list=PL055Epbe6d5aFXqs5UPAyQxs3D-1tHVCy
 * speaker: Cheryl Ainoa
 * venue: Velocity Santa Clara 2014
-* tags: empathy
+* tags: empathy, change, innovation
 
 ## keys to adapting to (surviving) disruptions in technology and remaining relevant
 
