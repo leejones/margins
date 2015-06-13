@@ -5,7 +5,7 @@
 
 ## key takeaways
 
-Hiring junior developers is an investment. Don't do it unless you plan to invest time and resources into helping them get better.
+Hiring junior developers is an investment. Don't do it unless you plan to invest time and resources into helping them get better. Also, don't just give them grunt work. Give them work that is meaningful and challanaging with a flexible timeline so they have time to learn.
 
 quotes:
 
