@@ -13,4 +13,4 @@ Operable is closely related to usable. Think LXC vs Docker. LXC is fully feature
 
 Context matters. A formula one car is appropriate in a high speed race, but terrible in a demolition derby. Make sure to understand your context.
 
-An organization (and DevOps) is a sociotechnical system. The people and technology both matter. The technology is not necessarily material. It can also be the systems and processes.
+An organization (and DevOps) is a [sociotechnical system](https://en.wikipedia.org/wiki/Sociotechnical_system). The people and technology both matter. The technology is not necessarily material. It can also be the systems and processes.
