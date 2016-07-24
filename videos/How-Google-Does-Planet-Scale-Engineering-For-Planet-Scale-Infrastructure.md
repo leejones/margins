@@ -2,6 +2,7 @@
 
 * source: https://www.youtube.com/watch?v=H4vMcD7zKM0
 * speaker: Melissa Binde
+* tags: SRE, on-call, DevOps
 
 Developers are rewarded for features. Operators are rewarded for uptime. New features (change) typically decreases uptime. The two incentives are opposed and each group will work against or around the other in order to achieve their goal.
 
