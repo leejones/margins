@@ -1,13 +1,15 @@
 # Reading notes from the book "The Art of Learning" by Josh Waitzkin
 
-Embrace distraction, setbacks, failure, and struggle because learning happens just beyond the edge of our ability.
+A growth mindset and deliberate practice allow us to develop incredible expertise.
+
+Embrace distraction, setbacks, failure, and struggle. Learning is not easy. Learning happens as we push just beyond the edge of our current ability.
 
 ## Key Ideas
 
 * **learn more by focusing on less**
 * **chunking** - group concepts together into chunks so that they can be more easily remembered and then used in relation to other ideas
 * **making sandals** - When faced with a field of thorns, do not try to pave a road through. Instead of trying to change everything around you, change yourself. Make sandals. Josh mentions this in the context of getting distracted during chess tournaments. Sometimes opponents would purposely try to distract him. He would embrace the distraction instead of fueling it further by anger or reaction. Other times, a song looping in his head might be distracting him. Instead of trying to drive the song out, he started to think in rhythm with the song.
-* **learning at the edge** - Learning only comes through pushing to and slightly beyond your current limits. Learning does not happy by staying safe, easy, comfortable, or lazy.
+* **learning at the edge** - Learning only comes through pushing to and slightly beyond your current limits. Learning does not happen by staying safe, easy, comfortable, or lazy.
 * **beginner's mind** - drop the ego, don't cling to what you (think you) know
 * **invest in loss** - learn from failure, embrace it
 * **discipline** - allows you to manifest your true character
