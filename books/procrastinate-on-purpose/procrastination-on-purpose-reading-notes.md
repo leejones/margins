@@ -48,3 +48,7 @@ If you delegate, accept that it may not be done exactly as well as you would hav
 
 The key is to invest the time. Roy says to expect to invest time up front and/or along the way in helping the person learn how to do something, but over the long term it will pay off.
 
+Expect to invest about 30x the amount of time teaching someone to perform a task. For example, if you have a task that takes you 5 minutes, then expect to invest 150 minutes teaching someone else how to do it (not necessarily all at once though).
+
+When you delegate, it's not going to be perfect. It's not going to be as good as you would do it... AT FIRST. Eventually the person will own and master the task in a way that is most likely going to be better. Be ok with it not be perfect at first. Delegation is a long term investment.
+
