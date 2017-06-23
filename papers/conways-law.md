@@ -1,6 +1,6 @@
 ## Notes from reading the "Conway's Law" paper
 
-The [paper](http://www.melconway.com/Home/Committees_Paper.html) can be found a Mel Conway's website.
+The [paper](http://www.melconway.com/Home/Committees_Paper.html) can be found on Mel Conway's website.
 
 Conway's Law is often used in the context of software, but applies to any system (ex. government, communities, transportation).
 
